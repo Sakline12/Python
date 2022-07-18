@@ -1,0 +1,6 @@
+{'Name': 'Sakline', 'Address': 'Dhaka', 'Email': 'Sakline51@gmail.com', 'Phone_Number': '01748164525'}
+{'Name': 'Heemel', 'Address': 'Pabna', 'Email': 'heemel51@gmail.com', 'Phone_Number': '01748164525'}
+{'Name': 'Shuvo', 'Address': 'Pabna', 'Email': 'shuvo51@gmail.com', 'Phone_Number': '01748164525'}
+{'Name': 'Munim', 'Address': 'Barishal', 'Email': 'munim51@gmail.com', 'Phone_Number': '01748164525'}
+{'Name': 'Jihad', 'Address': 'Pabna', 'Email': 'jihad@gmail.com', 'Phone_Number': '01748164525'}
+{'Name': 'Ratul', 'Address': 'Khulna', 'Email': 'ratul@gmail.com', 'Phone_Number': '016234635868'}

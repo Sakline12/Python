@@ -1,0 +1,17 @@
+Keyword1
+Research
+Description1
+They are carrying out/conducting/.
+Keyword2
+Hard
+Description2
+Difficult/Hard.
+Keyword3
+Trap
+Description3
+Snare
+
+Keyword4
+WWW
+Description4
+Web
